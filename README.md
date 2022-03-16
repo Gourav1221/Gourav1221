@@ -57,6 +57,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/shashi-kumar-0a4835150/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
- * Mail me on gouravmisra6@gmail.com
+ * Mail me on thegourabmishra@gmail.com
 
 </p>
