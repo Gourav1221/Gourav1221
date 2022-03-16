@@ -56,7 +56,7 @@
 ## Contact Me ☎️
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/shashi-kumar-0a4835150/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "www.linkedin.com/in/gourab-mishra/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
  * Mail me on thegourabmishra@gmail.com
 
 </p>
